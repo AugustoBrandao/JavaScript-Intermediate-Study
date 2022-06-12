@@ -1,0 +1,12 @@
+{
+  "name": "ex10-module",
+  "version": "1.0.0",
+  "description": "modularization in javascript",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "console.log('Hello World')"
+  },
+  "author": "Augusto Brandão",
+  "license": "ISC"
+}
