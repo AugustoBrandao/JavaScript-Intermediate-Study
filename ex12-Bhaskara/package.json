@@ -1,0 +1,20 @@
+{
+  "name": "bhaskara",
+  "version": "1.0.0",
+  "description": "bhaskara",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "console.log('Hello World')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugustoBrandao/JavaScript-Intermediate-Study.git"
+  },
+  "author": "Augusto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AugustoBrandao/JavaScript-Intermediate-Study/issues"
+  },
+  "homepage": "https://github.com/AugustoBrandao/JavaScript-Intermediate-Study#readme"
+}
